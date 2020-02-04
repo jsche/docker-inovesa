@@ -1,4 +1,4 @@
-# docker-inovesa
+# docker-inovesa [![Docker Image CI](https://github.com/jsche/docker-inovesa/workflows/Docker%20Image%20CI/badge.svg)](https://github.com/jsche/docker-inovesa/actions)
 
 Container running Inovesa, with a browser based-gui for headless and non-X systems.
 1. `docker build -t inovesa-gui .`
